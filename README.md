@@ -1,2 +1,2 @@
 # Hello there!
-### heach folder has a readme!
+### each folder has a readme!
